@@ -1,7 +1,7 @@
 package org.cb.simplifia.infrastructure.web.mapper;
 
-import org.cb.simplifia.infrastructure.web.response.CreateBankResponse;
 import org.cb.simplifia.domain.model.Bank;
+import org.cb.simplifia.infrastructure.web.response.CreateBankResponse;
 import org.springframework.stereotype.Component;
 
 @Component

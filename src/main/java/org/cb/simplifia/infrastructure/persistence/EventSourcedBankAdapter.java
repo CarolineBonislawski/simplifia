@@ -2,8 +2,8 @@ package org.cb.simplifia.infrastructure.persistence;
 
 import org.cb.simplifia.domain.model.Bank;
 import org.cb.simplifia.domain.model.BankId;
-import org.cb.simplifia.domain.port.output.DomainEventRepository;
 import org.cb.simplifia.domain.port.output.BankRepository;
+import org.cb.simplifia.domain.port.output.DomainEventRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.Optional;

@@ -1,7 +1,7 @@
 package org.cb.simplifia.infrastructure.persistence;
 
-import org.cb.simplifia.domain.port.output.DomainEventRepository;
 import org.cb.simplifia.domain.model.event.DomainEvent;
+import org.cb.simplifia.domain.port.output.DomainEventRepository;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

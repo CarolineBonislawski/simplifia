@@ -6,7 +6,6 @@ import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
 import jakarta.persistence.Id;
 import org.cb.simplifia.domain.model.event.EventType;
-import org.hibernate.annotations.Type;
 
 import java.time.Instant;
 import java.util.UUID;

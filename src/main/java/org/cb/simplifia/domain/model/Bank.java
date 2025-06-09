@@ -1,7 +1,7 @@
 package org.cb.simplifia.domain.model;
 
-import org.cb.simplifia.common.exception.InsufficientCreditsException;
 import org.cb.simplifia.common.StringFormatter;
+import org.cb.simplifia.common.exception.InsufficientCreditsException;
 import org.cb.simplifia.common.exception.NullAmountException;
 import org.cb.simplifia.domain.model.event.BankCreated;
 import org.cb.simplifia.domain.model.event.BankCredited;
